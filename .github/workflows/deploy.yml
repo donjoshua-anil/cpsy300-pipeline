@@ -12,7 +12,7 @@ permissions:
 env:
   ACR_NAME: arcdonj2026
   RESOURCE_GROUP: rg-cpsy300-w4d2-da
-  CONTAINERAPP: cae-w4d2-da
+  CONTAINERAPP: ca-pipeline-da
 
 jobs:
   build-and-deploy:
